@@ -1,0 +1,5 @@
+node_type: m5.large
+node_hourly_usd: 0.107
+node_vcpu: 2
+node_mem_gib: 8
+usd_to_inr: 84
