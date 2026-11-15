@@ -1,4 +1,4 @@
-﻿from kube_cost_lens.collector import parse_cpu, parse_memory
+﻿from collector import parse_cpu, parse_memory
 
 def test_millicores():
     assert parse_cpu("250m") == 0.25
